@@ -1,2 +1,6 @@
 # Términos Anatómicos de organización
-## De awa uwu
+## De awa uwu 
+- q
+- qe
+- ertr
+- 
