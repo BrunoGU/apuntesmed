@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md",
+                "file": "Anatomía/Definiciones de Anatomía.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md",
+                "file": "Anatomía/Definiciones de Anatomía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md",
+                "file": "Anatomía/Definiciones de Anatomía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md"
+                "file": "Anatomía/Definiciones de Anatomía.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "ec23cd0a5bf98d19",
   "lastOpenFiles": [
+    "Anatomía/Generalidades de anatomía humana.md",
     "2023-02-06.md",
     "Untitled.canvas",
-    "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/Planimetría.md",
     "Anatomía/Definiciones de Anatomía.md",
     "README.md",
