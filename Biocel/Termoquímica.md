@@ -1,0 +1,41 @@
+# Termoquímica
+- Transferencia de energía
+	- Energía libre de gibbs
+		- Evalua la espontaneidad de una reacción
+		- T= temperatura absoluta
+		- H=entalpía
+		- S=entropía
+		- ΔGr=ΔH-T*ΔS
+			- si ΔGr>0
+				- Reacción no espontánea
+			- si ΔGr<0
+				- Reacción espontánea
+	- Entropía
+		- Grado de desorden de un sistema
+			- Entropía
+				- Sólido < Líquido << Gaseoso
+	- Entalpía
+		- Entalpía de Reacción
+			- Endotérmica
+				- Absorben calor
+			- Exotérmica
+				- Liberan calor
+		- Calor de reacción ΔH
+			- ΔH=ΔE+PΔV
+			- A presión constante ΔH a la energía intercambiada mediante calor
+				- ΔH=Qp
+	- Gases
+		- W= -P*ΔV
+	- ΔE
+		- Indica si la energía se libera o absorbe
+			- ΔE=Q+W
+				- Trabajo W
+					- Si hay cambio de volumen hay trabajo
+				- Calor Q
+					- Si en una reacción no hay cambio de volumen toda la energía se intercambia como calor
+			- Negativo
+				- Liberación de energía
+			- Positivo
+				- Absorción de energía
+	- Calor
+	- Trabajo

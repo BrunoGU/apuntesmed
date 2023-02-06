@@ -1,0 +1,56 @@
+# Velocidad de Reacción
+- Δc/Δt
+- Varía con la concentración
+- Cuando se estabiliza la velocidad de reacción se alcanza el equilibrio químico
+	- Bajo esta condición la reacción es reversible
+	- Fórmula
+		- Keq= (Productos)/(Reactivos)
+			- No se consideran especies sólidas y líquidas, sólo gases y especies en disolución
+			- Si
+				- Keq>1
+					- Se desplaza a la formación de productos
+				- Keq<1
+					- Se desplaza a la formación de reactivos
+				- Keq=1
+					- Equilibrio químico 
+		- (Variables en moles /Litro)
+- Mayor concentración, mayor velocidad de reacción
+- Catalizadores
+	- Pueden acelerar o disminuír la velocidad de reacción
+	- Enzimas
+		- Catalizadores biológicos protéicos
+# Equilibrio ácido base
+## Agua
+- Autoionización del agua, escala de pH
+	- pH+pOH=14
+	- pH del agua o neutro
+		- 7
+	- pH
+		- -log(H+)
+	- pOH
+		- -log(H-)
+## REDOX
+- Pilas
+	- Reacciones redox electroquímicas
+	- Potencial estándar de reducción en volts
+		- E
+			- E=Ecátodo-Eánodo
+- Nivel biológico
+	- Enzimas clase I
+		- Oxidoreductasas
+			- Deshidrogenasas
+				- Respiración celular
+	- Mitocondria
+		- Respiración celular
+			- Glucosa
+		- Obtención de ATP
+-  Oxidación
+	- Aumento del estado de oxidación (valencia) o pérdida de electrones
+- Reducción
+	- Disminución del estado de oxidación o ganancia de electrones
+- Reacción REDOX
+	- Reacción de transferencia de electrones en la que algunos elementos se oxidan y los otros se reducen
+- Oxidante
+	- Reactivo que gana electrones y se reduce; PROVOCA la OXIDACIÓN de su par REDOX
+- Reductor
+	- Reactivo que pierde electrones y se oxida; PROVOCA la REDUCCIÓN de su par REDOX

@@ -1,0 +1,132 @@
+# Planimetría
+## Planos Anatómicos
+- Imaginarios
+- Bidimensionales
+- Ejes y movimientos
+- Determinan términos
+- Divisiones corpotales
+	- Anteriores
+	- Posteriores
+	- Laterales
+		- Izquierda
+		- Derecha
+	- Superiores
+	- Inferiores
+- Ortogonales
+	- Formal ángulos de 90 grados
+## Ejes anatómico o de movimiento
+- Línea imaginaria, contenida y siempre perpendicular a un plano anatómico
+- Tipos de eje
+	- Eje Longitudinal 
+		- Sentido craneocaudal, superoinferior
+		- Es perpendicular al plano horizontal
+		- Es de dirección vertical
+		- Se describen movimientos de rotación
+			- Tronación
+			- Supinación
+	- Eje transverso
+		- Eje laterolateral(de lado a lado)(perlateral)
+		- Perpendicular a los planos medios o sagitales
+		- Movimientos de flexión y extensión
+	- Eje sagital
+		- Sentido anteroposterior o ventrodorsal
+		- Es de dirección horizontal
+		- Perpendicular a los planos cronales
+		- Describe movimientos de abducción(separación) o aducción (aproximación)
+	- a
+## Tipos de planos
+- Planos Oblicuos(único y detergente)
+	- Dividen en cuerpo en secciones no paralelas con respecto a los otros tipos de plano
+- Plano medio/mediano/mediosagital(sagital)
+	- Divide al cuerpo en dos de manera vertical de forma anteroposterior
+	- Asimétrico
+	- Pasa por eje longitudinal del cuerpo
+	- Dive en una mitades
+		- Derecha e izquierda
+	- Plano paramediano/parasagital
+		- Paralelo al plano medio 
+- Plano Horizontal
+	- Divide al cuerpo en dos
+		- Parte superior
+		- Parte inferior
+- Plano Coronal
+	- Corte transversal del cuerpo
+	- Divide el cuerpo en dos caras
+		- Parte Anterior
+		- Parte Posterior 
+## Términos anatómicos
+### Relación
+- Anterior
+- Posterior
+- Superior
+- Inferior
+- Craneal
+	- Estructuras próximas al cráneo
+- Caudal
+	- Estructuras próximas al extremo inferior del tronco
+- Podal(inferiores)
+	- Estruras que se acercan a los pies
+- Medial
+	- Que se acercan a la mitad del cuerpo o plano medial
+- Lateral
+	- Que se alejan de la mitad del cuerpo o plano medial
+### Comparación
+- Proximal
+	- Cercano al tronco o punto de referencia
+- Distal
+	- Lejano al tronco o el punto de referencia
+- Superficial
+	- Cercana a la superficie
+- Profundo
+	- Lejana a la superficie
+- Externo(exclusivo para órganos)
+	- Parte alejada del centro de un órgano
+	- ESTROMA= parte externa
+- Interno(exclusivo para órganos)
+	- Parte interna o cavidad de un órgano 
+	- PARENQUIMA=parte interna
+- Intermedio
+	- Entre dos estructuras
+### Otros
+- Axial
+	- Ubicado en un eje
+- Ipsilateral(homolateral)
+	- De un mismo lado del cuerpo
+- Contralateral
+	- De la mitad contraria del cuerpo
+- Medio
+	- Situado en medio de un conjunto de estructuras
+- Ulnar(Cubital)
+	- Del lado del cúbito: hueso medial del antebrazo
+- Peroneo
+	- Del lado del peroné: hueso lateral de la pierna
+- Sural
+	- Perteneciente o relativo de la pantorrilla
+- Luminal
+	- Orientado a la luz de la estructura
+- Apical
+	- Hacia el vétice o ápex
+- Basal
+	- Orientado hacia la base
+- Transverso(atravesado)
+	- de lado a lado
+- Circunflejo
+	- Doblado alrededor de algo
+- Mesial
+	- Cercano al primer diente incisivo
+- Oclusal
+	- Ubicado en el plano de cierre de los arcos dentales(el hocico)
+### Términos Combinados
+- Superolateral
+	- Indica hacia la parte cefálica y alejado del plano mediano
+- Inferomedial
+	- Indica hacia caudal y hacia el plano mediano
+### Términos de lateralidad
+- Bilaterales
+	- Estructuras con componente izquierdo y derecho
+- Unilaterales
+	- Estructuras que se encuentran en un sólo lado
+- Ipsolateral u homolateral
+	- Estructura que se encuentra el el mismo lado que otra
+- Contralateral
+	- Ocurre en el lado opuesto del cuerpo en relación con otra estructura

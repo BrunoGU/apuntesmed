@@ -1,0 +1,67 @@
+# Citología
+## Histología
+### Teoría celular
+- Bases
+	- Todo organismo vivo posee células
+	- Toda célula proviene de otra preexistente
+	- La célula como unidad estructural y funcional de todos los seres vivos
+	- Cada célula puede tener propiedades independientes del resto
+		- Las propiedades de un organismo están basadas en las propiedades de sus células 
+#### Cronología
+- Da vinci
+	- Estudios de lentes e imágenes pequeñas
+	-  Siglo XV
+	- Constantin Huygens
+		- Siglo XVII
+		- Invención microscopio compuesto
+		- 1621
+		- Marcello Malpighi
+			- Describe precariamente las células
+			- Estudia varios órganos y tejidos
+			- Estudia anatomía vegetal 1682
+			- Anton van Leeuwenhoek
+				- Evoluciona la microscopía
+				- Introducción del término cellula
+				- Mitad del siglo XVII(1665)
+				- Caspar Wolff
+					- Siglo XVIII
+					- Padre de la histología
+					- Concepto moderno de tejido
+					- Siglo XIX
+						- Corte y tinción de tejidos
+						- Declaración formal de la teoría celular
+							- Theodor Schwann
+						- Descripción del núcleo celular
+						- Intauración del concepto protoplasma
+						- Siglo XX
+							- Marcaje isotópico
+							- Influencias
+								- Bioquímica
+								- Genética
+								- Fisiología
+							- autorradiografía
+							- Resinas termoendurecibles
+							- Microscopios electrónicos
+								- Transmisión
+								- Barrido
+							- Nuevas técincas
+								- Fijación
+								- Tinción
+						- Santiago Ramón y Cajal
+							- Individualidad de las neuronas
+						- Camillo Golgi
+							- Técnica de impregnación cromoargéntica
+						- Wihelm Waldeyer
+							- Identifica los cromosomas
+						- Edward Strasburguer
+							- Distinción del citoplasma y el nucleoplasma
+						- Wlater Flemming
+							- Describe la cromatina
+							- Mitosis
+						- Rudolf Wirchow
+							- Omnis cellula e cellula
+								- Toda célula proviene de otra célula
+						- Jacob Henle
+							-  Describe el concepto de organismo
+						- Mayer
+							- Introcucción término histología

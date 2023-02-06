@@ -1,0 +1,45 @@
+# Células madre
+- Células inmaduras
+- Pueden contribuir en la cura de enfermedades compejas
+	- Diabetes
+	- Alzhéimer
+	- Parkinson
+- Clonación
+	- Transferencias nuclear
+		- Mover material genético de una célula a otra
+			- Estudios en animales
+- Dificultades en su uso médico
+	- Rechazos
+		- Hay que inmunosuprimir al paciente
+	- Desarrollo tumoral
+		- Ha pasado en animales, pero existen dudas de que pase en humanos
+		- Son más peligrosas las células embrionarias que las adultas
+	- Cultivo
+		- Uso de medios y suplementos de orígen animal
+			- Posible introducción de infecciones
+- Células
+	- Totipotentes
+		-  Diferenciación
+			- Células Pluripotentes
+				- Células madre embrionarias
+					- Presentes entre los 7 y 14 días de desarrollo
+					- Su uso médico no es posible por la complejidad del proceso de diferenciación
+					- Diferenciación
+						- Células Multipotentes
+							- Cordón Umbilical
+								- Cultivos celulares
+									- Transdiferenciación
+										- Especialización en un tejido 
+							- Células Médula osea
+								- Glóbulos rojos
+								- Plaquetas
+								- Glóbulos blancos
+							- Organoespecíficas
+			
+	- Multipotentes
+		- Fecundación
+			- Cigoto
+				- Embrión
+					- Al momento de implantarse en el útero
+					- Feto
+						- A partir de la octava semana
