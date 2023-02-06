@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md"
+                "file": "README.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "1e57b37aefb2a322",
   "lastOpenFiles": [
+    "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/Definiciones de Anatomía.md",
     "README.md",
-    "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/Planimetría.md",
     "Biocel/Termoquímica.md",
     "Biocel/Leyes químicas.md",
