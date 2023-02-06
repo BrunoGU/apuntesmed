@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "1e57b37aefb2a322",
+            "id": "ec23cd0a5bf98d19",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,17 +164,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1e57b37aefb2a322",
+  "active": "ec23cd0a5bf98d19",
   "lastOpenFiles": [
+    "2023-02-06.md",
+    "Untitled.canvas",
+    "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/Planimetría.md",
     "Anatomía/Definiciones de Anatomía.md",
-    "Anatomía/Generalidades de anatomía humana.md",
     "README.md",
     "Biocel/Termoquímica.md",
     "Biocel/Leyes químicas.md",
     "Biocel/Química orgánica.md",
-    "Biocel/Reacciones en disolución y transferencia.md",
-    "Biocel/Síntesis histórica de biocel.md",
-    "Biocel/Células madre o progenitoras.md"
+    "Biocel/Reacciones en disolución y transferencia.md"
   ]
 }
