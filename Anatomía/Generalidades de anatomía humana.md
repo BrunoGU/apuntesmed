@@ -23,7 +23,7 @@
 {Cabeza}
 
 | Frontal | Parietal | Occipital | Temporal | Orbitaria | Infraorbitaria | Nasal | Labial o Oral| Mentoniana | De la mejilla o bucal | Cigomática |
-	| ------- | -------- | --------- | -------- | --------- | -------------- | ----- | ------ | ---- | ---------- | --------------------- | ---------- |
+| ------- | -------- | --------- | -------- | --------- | -------------- | ----- | ------ | ---- | ---------- | --------------------- | ---------- |
 
 {Cuello}
 
@@ -36,9 +36,9 @@
 
 {Tronco}
 
-| Posterior o dorsal       | Anterior o ventral    | Caudal          |
+| Anterior o ventral        | Posterior o dorsal   | Caudal          |
 | ------------------------ | --------------------- | --------------- |
-| Región preesternal      | Región Escapular      | Región perianal |
+| Región preesternal      | Región Escapular      | Región perianal(SECTOR UROGENITAL Y ANAL) |
 | Fosa infraclavicular     | Región Infraescapular |                 |
 | Región pectoral          | Región lumbar         |                 |
 | Región mamaria           | Región vertebral      |                 |
@@ -46,7 +46,15 @@
 | CAVIDAD ABDOMINO PÉLVICA |                       |                 |
 
 CAVIDAD ABDOMINO PÉLVICA
-- 
+- Región epigástrica
+- Región umbilical o mesogastrio
+- Región hipogástrica
+- Región del hipocondrio derecha y la izquierda
+- Región lateral derecha y lla izquierda
+- Región inguinal derecha y la izquierda
 
 {Miembro superior}
+
+| Deltoidea | Braquial o del brazo anterior | Braquial o del brazo posterior | Anterior del codo    |     |     |     |     |     |     |     |     |     |
+| --------- | ----------------------------- | ------------------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 {Miembro inferior}
