@@ -19,10 +19,14 @@
 - Pueden ser superficiales, profundas o ambas a la vez
 - En general las regiones anatómicas tienen su parte superficial y su parte profunda
 - Se pueden dividir en las siguientes regiones:
-- {Cabeza}
+
+{Cabeza}
+
 | Frontal | Parietal | Occipital | Temporal | Orbitaria | Infraorbitaria | Nasal | Labial o Oral| Mentoniana | De la mejilla o bucal | Cigomática |
 	| ------- | -------- | --------- | -------- | --------- | -------------- | ----- | ------ | ---- | ---------- | --------------------- | ---------- |
-- {Cuello}
+
+{Cuello}
+
 | Cervical Anterior       | Esternocleidomastoidea | Cervical lateral                   | Posterior o nucal |     |
 | ----------------------- | ---------------------- | ---------------------------------- | ----------------- | --- |
 | Triángulo Submandibular |                        | Fosa supraclavicular menor         |                   |     |
@@ -30,14 +34,19 @@
 | Triángulo Omotraqueal   |                        |                                    |                   |     |
 | Triángulo Submentoniano |                        |                                    |                   |     |
 
-	- {Tronco}
-| Posterior o dorsal       | Anterior o ventral    | Caudal |
-| ------------------------ | --------------------- | ------ |
-| Región preesternanl      | Región Escapular      |    Región perianal    |
-| Fosa infraclavicular     | Región Infraescapular |        |
-| Región pectoral          | Región lumbar         |        |
-| Región mamaria           | Región vertebral      |        |
-| Región Inframamaria      | Región sacra          |        |
-| CAVIDAD ABDOMINO PÉLVICA |                       |        |
-	- {Miembro superior}
-	- {Miembro inferior}
+{Tronco}
+
+| Posterior o dorsal       | Anterior o ventral    | Caudal          |
+| ------------------------ | --------------------- | --------------- |
+| Región preesternal      | Región Escapular      | Región perianal |
+| Fosa infraclavicular     | Región Infraescapular |                 |
+| Región pectoral          | Región lumbar         |                 |
+| Región mamaria           | Región vertebral      |                 |
+| Región Inframamaria      | Región sacra          |                 |
+| CAVIDAD ABDOMINO PÉLVICA |                       |                 |
+
+CAVIDAD ABDOMINO PÉLVICA
+- 
+
+{Miembro superior}
+{Miembro inferior}
