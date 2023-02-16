@@ -145,13 +145,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "3e0cd755106e5f19",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +172,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec23cd0a5bf98d19",
+  "active": "3e0cd755106e5f19",
   "lastOpenFiles": [
     "Anatomía/Definiciones de Anatomía.md",
     "Anatomía/Planimetría.md",
