@@ -58,4 +58,9 @@ CAVIDAD ABDOMINO PÉLVICA
 
 | Deltoidea | Braquial o del brazo anterior | Braquial o del brazo posterior | Anterior del codo(Fosa cubital o del codo) | Posterior del codo o olecraneana | Antebraquial o antebrazo anterior | Antebraquial o antebrazo posterior | Anterior del carpo(muñeca anterior) | Posterior del carpo(muñeca posterior) | Región dorsal de lamano | Región palmar de lamano    |     |     |
 | --------- | ----------------------------- | ------------------------------ | ------------------------------------------ | -------------------------------- | --------------------------------- | ---------------------------------- | ----------------------------------- | ------------------------------------- | ----------------------- | --- | --- | --- |
+
 {Miembro inferior}
+
+| Región glútea | Región femoral anterior | Triángulo femoral | Región femoral posterior | Región anterior de la rodilla | Región posterior de la rodilla(fosa poplítea) | Región anterior crural posterior(próxima a región sural) | Región enteior del tobillo o talocrural | Región posterior del tobillo o talocrural | Dorso del pie | Planta del pie    |
+| ------------- | ----------------------- | ----------------- | ------------------------ | ----------------------------- | --------------------------------------------- | -------------------------------------------------------- | --------------------------------------- | ----------------------------------------- | ------------- | --- |
+
