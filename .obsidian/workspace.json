@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +172,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec23cd0a5bf98d19",
+  "active": "3e0cd755106e5f19",
   "lastOpenFiles": [
-    "Anatomía/Definiciones de Anatomía.md",
-    "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/Planimetría.md",
+    "Anatomía/Generalidades de anatomía humana.md",
+    "Anatomía/Definiciones de Anatomía.md",
     "README.md",
     "2023-02-06.md",
     "Untitled.canvas",
