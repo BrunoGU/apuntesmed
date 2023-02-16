@@ -22,8 +22,9 @@
 
 {Cabeza}
 
-| Frontal | Parietal | Occipital | Temporal | Orbitaria | Infraorbitaria | Nasal | Labial o Oral| Mentoniana | De la mejilla o bucal | Cigomática |
-| ------- | -------- | --------- | -------- | --------- | -------------- | ----- | ------ | ---- | ---------- | --------------------- | ---------- |
+| Frontal | Parietal | Occipital | Temporal | Orbitaria | Infraorbitaria | Nasal | Labial o Oral | Mentoniana | De la mejilla o bucal | Cigomática |
+| ------- | -------- | --------- | -------- | --------- | -------------- | ----- | ------------- | ---------- | --------------------- | ---------- |
+|         |          |           |          |           |                |       |               |            |                       |            |
 
 {Cuello}
 
@@ -55,6 +56,6 @@ CAVIDAD ABDOMINO PÉLVICA
 
 {Miembro superior}
 
-| Deltoidea | Braquial o del brazo anterior | Braquial o del brazo posterior | Anterior del codo    |     |     |     |     |     |     |     |     |     |
-| --------- | ----------------------------- | ------------------------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Deltoidea | Braquial o del brazo anterior | Braquial o del brazo posterior | Anterior del codo(Fosa cubital o del codo) | Posterior del codo o olecraneana | Antebraquial o antebrazo anterior | Antebraquial o antebrazo posterior | Anterior del carpo(muñeca anterior) | Posterior del carpo(muñeca posterior) | Región dorsal de lamano | Región palmar de lamano    |     |     |
+| --------- | ----------------------------- | ------------------------------ | ------------------------------------------ | -------------------------------- | --------------------------------- | ---------------------------------- | ----------------------------------- | ------------------------------------- | ----------------------- | --- | --- | --- |
 {Miembro inferior}
