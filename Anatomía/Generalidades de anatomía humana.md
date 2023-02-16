@@ -31,8 +31,13 @@
 | Triángulo Submentoniano |                        |                                    |                   |     |
 
 	- {Tronco}
-| Posterior o dorsal | Anterior o ventral | Caudal |
-| ------------------ | ------------------ | ------ |
-| Región                    |                    |        |
+| Posterior o dorsal       | Anterior o ventral    | Caudal |
+| ------------------------ | --------------------- | ------ |
+| Región preesternanl      | Región Escapular      |    Región perianal    |
+| Fosa infraclavicular     | Región Infraescapular |        |
+| Región pectoral          | Región lumbar         |        |
+| Región mamaria           | Región vertebral      |        |
+| Región Inframamaria      | Región sacra          |        |
+| CAVIDAD ABDOMINO PÉLVICA |                       |        |
 	- {Miembro superior}
 	- {Miembro inferior}
