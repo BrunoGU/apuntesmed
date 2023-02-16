@@ -3,11 +3,12 @@
 | estructuras compuestas por 2 o más tejidos | Conjundo de órganos coorelacionados | Secciones del organismo | Espacios internos que protegen a los órganos más delicados |
 |                                         |                                     |                         |                                                            |
 
-__CARACTERÍSTICAS DE LOS ÓRGANOS__
+**CARACTERÍSTICAS DE LOS ÓRGANOS**
 | Todo órgano evoluciona a lo largo de la vida | Todo órgano cuple una función | Todo órgano puede tener forma y función modificada debido a una enfermedad o traumatismo | Todo órgano puede ser explorado por el personal de salud | Casi todos los óraganos pueden estar al alcance del cirujano que desee rescatarlo, modificarlo o reemplazarlo    |     |
 | -------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------- | --- | --- |
-Sistemas anatómicos
+**Sistemas anatómicos**
 
-| Esquelético | Articular | Muscular | Digestivo | Respiratorio | Urinario | Genitales | Endocrino | Cardiovascular | Linfático | Nervioso | Tegumentario |
-| ----------- | --------- | -------- | --------- | ------------ | -------- | --------- | --------- | -------------- | --------- | -------- | ------------ |
-| ---         |           |          |           |              |          |           |           |                |           |          |              |
+| Sistema     | Esquelético          | Articular              | Muscular                                     | Digestivo                            | Respiratorio         | Urinario                                  | Genitales                             | Endocrino | Cardiovascular             | Linfático              | Nervioso                  | Tegumentario                          |
+| ----------- | -------------------- | ---------------------- | -------------------------------------------- | ------------------------------------ | -------------------- | ----------------------------------------- | ------------------------------------- | --------- | -------------------------- | ---------------------- | ------------------------- | ------------------------------------- |
+| Estructuras | Huesos y cartílago   | Huesos                 | Músculos y tendones                          | Tracto digestivo                     | Conductos y pulmones | Riñones, vejiga y vias urinarias          | Gónadas, conductos y órganos sexuales | Glándulas | Corazón y vasos sanguíneos | Vasos, nodos y órganos | Nervios y tejido nervioso | Piel, anexos a esta y tela subcutánea |
+| Función     | Soporte y protección | Permitir el Movimiento | Movilización y fijación de partes del cuerpo | Masticación, Nutrición y eliminación | Respiración          | Producir, transportar y eliminar la orina | Formación                                      |           |                            |                        |                           |                                       |
