@@ -23,16 +23,32 @@
               "state": {
                 "file": "Anatomía/regiones anatómicas.canvas",
                 "viewState": {
-                  "x": 94.13999999999926,
-                  "y": 566.9132812500026,
+                  "x": -101.1600000000008,
+                  "y": 185.61328125000202,
                   "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "e0d93e9b09ffff66",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Anatomía/regiones anatómicas.canvas",
+                "viewState": {
+                  "x": 95,
+                  "y": 258.5,
+                  "zoom": -0.891733012200337,
                   "snapToGrid": false
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,17 +192,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dea2075b19181743",
+  "active": "e0d93e9b09ffff66",
   "lastOpenFiles": [
-    "2023-02-17.md",
+    "Anatomía/regiones anatómicas 1.canvas",
     "Anatomía/regiones anatómicas.canvas",
+    "2023-02-17.md",
     "Anatomía/Planimetría.md",
     "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/Definiciones de Anatomía.md",
     "README.md",
     "2023-02-06.md",
     "Biocel/Termoquímica.md",
-    "Biocel/Leyes químicas.md",
-    "Biocel/Química orgánica.md"
+    "Biocel/Leyes químicas.md"
   ]
 }
