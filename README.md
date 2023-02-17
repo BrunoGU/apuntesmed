@@ -20,8 +20,13 @@ Luego de concluir la instalación de Obsidian, abrir el programa y dirigirse a l
 	- En Windows o Linux
 		- control + P y buscar la extensión mind map y apretar en el nombre
 
+🇹​​​​​🇦​​​​​🇷​​​​​🇯​​​​​🇪​​​​​🇹​​​​​🇦​​​​​🇸​​​​​ 🇩​​​​​🇪​​​​​ 🇲​​​​​🇪​​​​​🇲​​​​​🇴​​​​​🇷​​​​​🇮​​​​​🇦​​​​​ 🇦​​​​​🇳​​​​​🇰​​​​​🇮​​​​​
+
+Los archivos terminados en apkg son paquetes de tarjetas de memoria sobre los apuntes de la materia/carpeta en la que se encuentran, sólo tienes que descargar la aplicación de Anki e importar el mazo uwu.
+
 '*•.¸♡Información de contacto ♡¸.•*'
 
 | Instagram  |     | 
 | ---------- | --- |
 | @brutierre |     |
+
