@@ -16,14 +16,18 @@
             }
           },
           {
-            "id": "ec23cd0a5bf98d19",
+            "id": "f3f0d320f10f9ab1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anatomía/Generalidades de anatomía humana.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -155,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,17 +176,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec23cd0a5bf98d19",
+  "active": "f3f0d320f10f9ab1",
   "lastOpenFiles": [
+    "2023-02-17.md",
+    "Untitled.canvas",
     "Anatomía/Planimetría.md",
-    "Anatomía/Definiciones de Anatomía.md",
     "Anatomía/Generalidades de anatomía humana.md",
+    "Anatomía/Definiciones de Anatomía.md",
     "README.md",
     "2023-02-06.md",
-    "Untitled.canvas",
     "Biocel/Termoquímica.md",
     "Biocel/Leyes químicas.md",
-    "Biocel/Química orgánica.md",
-    "Biocel/Reacciones en disolución y transferencia.md"
+    "Biocel/Química orgánica.md"
   ]
 }
