@@ -21,10 +21,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Anatomía/regiones anatómicas.canvas",
                 "viewState": {
-                  "x": 136.92000000000021,
-                  "y": 135.39328124999983,
+                  "x": 94.13999999999926,
+                  "y": 566.9132812500026,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230217002348.png",
+                "file": "Anatomía/regiones anatómicas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230217002348.png",
+                "file": "Anatomía/regiones anatómicas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230217002348.png"
+                "file": "Anatomía/regiones anatómicas.canvas"
               }
             }
           },
@@ -176,10 +176,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f3f0d320f10f9ab1",
+  "active": "dea2075b19181743",
   "lastOpenFiles": [
     "2023-02-17.md",
-    "Untitled.canvas",
+    "Anatomía/regiones anatómicas.canvas",
     "Anatomía/Planimetría.md",
     "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/Definiciones de Anatomía.md",
