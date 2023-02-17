@@ -64,4 +64,5 @@ CAVIDAD ABDOMINO PÉLVICA
 | Región glútea | Región femoral anterior | Triángulo femoral | Región femoral posterior | Región anterior de la rodilla | Región posterior de la rodilla(fosa poplítea) | Región anterior crural posterior(próxima a región sural) | Región enteior del tobillo o talocrural | Región posterior del tobillo o talocrural | Dorso del pie | Planta del pie    |
 | ------------- | ----------------------- | ----------------- | ------------------------ | ----------------------------- | --------------------------------------------- | -------------------------------------------------------- | --------------------------------------- | ----------------------------------------- | ------------- | --- |
 
-CAVIDADES CORPORALES
+CAVIDADES CORPORALES:
+

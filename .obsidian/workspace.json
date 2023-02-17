@@ -35,15 +35,11 @@
             "id": "e0d93e9b09ffff66",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Anatomía/regiones anatómicas.canvas",
-                "viewState": {
-                  "x": 95,
-                  "y": 258.5,
-                  "zoom": -0.891733012200337,
-                  "snapToGrid": false
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -114,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anatomía/regiones anatómicas.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anatomía/regiones anatómicas.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anatomía/regiones anatómicas.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -194,11 +190,11 @@
   },
   "active": "e0d93e9b09ffff66",
   "lastOpenFiles": [
-    "Anatomía/regiones anatómicas 1.canvas",
+    "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/regiones anatómicas.canvas",
+    "Anatomía/regiones anatómicas 1.canvas",
     "2023-02-17.md",
     "Anatomía/Planimetría.md",
-    "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/Definiciones de Anatomía.md",
     "README.md",
     "2023-02-06.md",
