@@ -65,4 +65,20 @@ CAVIDAD ABDOMINO PÉLVICA
 | ------------- | ----------------------- | ----------------- | ------------------------ | ----------------------------- | --------------------------------------------- | -------------------------------------------------------- | --------------------------------------- | ----------------------------------------- | ------------- | --- |
 
 CAVIDADES CORPORALES:
+- Espacios internos
+- Protegen los espacios más delicados contra impactos accidentales y los amortiguan frente a golpes, sacudidas y al caminar, saltar o correr.
 
+| Cavidad corporal anterior o ventral                                                                                                                   |     |     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| Contiene órganos pertenecientes al sistema respiratorio, cardiovascular, digestivo, urinario y genital                                                |     |     |
+| Los órganos sobresalen total o parcialmente a su interior                                                                                             |     |     |
+| Pueden producirse cambios considerables en la forma y tamaño de los órganos sin producir perturbaciones en sus adyacentes                             |     |     |
+| Está dividida en dos por el diafragma. La cavidad torácica superior, es la sección superior, mientras que la inferior, es la cavidad abdominopélvica, rodeada por la pared del abdómen y la pelvis |     |     |
+|                                                                                                                                                       |     |     |
+
+CAVIDAD ANTERIOR O VENTRAL
+- Marcada por el diafragma
+- Parte superior
+	- Cavidad Torácica
+- Parte interior
+	- Cavidad Abdominopélvica

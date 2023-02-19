@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Anatomía/Generalidades de anatomía humana.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Anatomía/Generalidades de anatomía humana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Anatomía/Generalidades de anatomía humana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Anatomía/Generalidades de anatomía humana.md"
               }
             }
           },
@@ -190,15 +190,15 @@
   },
   "active": "e0d93e9b09ffff66",
   "lastOpenFiles": [
-    "Anatomía/Generalidades de anatomía humana.md",
+    "Anatomía/Planimetría.md",
     "Anatomía/regiones anatómicas.canvas",
+    "Pasted image 20230217002348.png",
+    "Pasted image 20230217002139.png",
+    "README.md",
+    "Anatomía/Generalidades de anatomía humana.md",
     "Anatomía/regiones anatómicas 1.canvas",
     "2023-02-17.md",
-    "Anatomía/Planimetría.md",
     "Anatomía/Definiciones de Anatomía.md",
-    "README.md",
-    "2023-02-06.md",
-    "Biocel/Termoquímica.md",
-    "Biocel/Leyes químicas.md"
+    "2023-02-06.md"
   ]
 }
